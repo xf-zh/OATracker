@@ -19,4 +19,3 @@ The HOTA metric on the Validation and test set:
 | 3DSTAA     | -                          | -        |
 | OATracker  | 82.53\%                    | 80.41\%     |
 
-The HOTA performance of the OATracker is on the TODO list and will be updated once completed.

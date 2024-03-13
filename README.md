@@ -17,5 +17,5 @@ The HOTA metric on the Validation and test set:
 | GNN3DMOT   | -                          | -        |
 | JMODT      | -                          | 70.73\%  |
 | 3DSTAA     | -                          | -        |
-| OATracker  | 82.53\%                    | 80.41\%     |
+| OATracker  | 83.72\%                    | 80.41\%     |
 
